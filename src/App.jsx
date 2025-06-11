@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
-import JobList from "./components/Joblist";
+import JobList from "./components/JobList";
 import CandidateList from "./components/CandiddateList";
 import CandidateDetails from "./components/CandidateDetails";
 import { jobs as allJobs } from "./data";
